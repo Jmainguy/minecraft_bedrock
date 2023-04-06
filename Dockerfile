@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:jammy
 ENV maintatiner="Jon Mainguy <jon@soh.re>"
 ENV LD_LIBRARY_PATH=/opt/minecraft
 ENV minecraft-version=1.6.1.0
